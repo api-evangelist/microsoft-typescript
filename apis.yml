@@ -1,5 +1,21 @@
 aid: microsoft-typescript
+name: Microsoft TypeScript
+description: >-
+  TypeScript is a strongly typed programming language that builds on JavaScript
+  developed by Microsoft. It provides a Compiler API and Language Service API
+  for building tools, linters, code generators, and IDE integrations.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - TypeScript
+  - Compiler
+  - Language Tools
+  - JavaScript
+  - Microsoft
 url: https://raw.githubusercontent.com/api-evangelist/microsoft-typescript/refs/heads/main/apis.yml
+created: '2024-01-01'
+modified: '2026-03-16'
+specificationVersion: '0.19'
 apis:
   - aid: microsoft-typescript:compiler-api
     name: TypeScript Compiler API
@@ -7,8 +23,7 @@ apis:
       - TypeScript
       - Compiler
       - Language Tools
-    image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
-    baseURL: https://api.example.com
+    image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
     humanURL: https://github.com/microsoft/TypeScript/wiki/Using-the-Compiler-API
     properties:
       - url: https://github.com/microsoft/TypeScript/wiki/Using-the-Compiler-API
@@ -25,8 +40,7 @@ apis:
       - TypeScript
       - Language Service
       - IDE Integration
-    image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
-    baseURL: https://api.example.com
+    image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
     humanURL: https://github.com/microsoft/TypeScript/wiki/Using-the-Language-Service-API
     properties:
       - url: https://github.com/microsoft/TypeScript/wiki/Using-the-Language-Service-API
@@ -39,14 +53,20 @@ apis:
 common:
   - type: Portal
     url: https://www.typescriptlang.org/
+  - type: Website
+    url: https://www.typescriptlang.org/
+  - type: Documentation
+    url: https://www.typescriptlang.org/docs/
   - type: GitHub Organization
     url: https://github.com/microsoft/TypeScript
   - type: Getting Started
-    url: https://www.typescriptlang.org/docs/
+    url: https://www.typescriptlang.org/docs/handbook/intro.html
   - type: Terms of Service
     url: https://www.microsoft.com/en-us/legal/terms-of-use
   - type: Privacy Policy
     url: https://privacy.microsoft.com/en-us/privacystatement
+  - type: Support
+    url: https://github.com/microsoft/TypeScript/issues
 maintainers:
-  - name: Kin Lane
+  - FN: Kin Lane
     email: kin@apievangelist.com
