@@ -7,11 +7,11 @@ description: >-
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-  - TypeScript
   - Compiler
-  - Language Tools
   - JavaScript
+  - Language Tools
   - Microsoft
+  - TypeScript
 url: https://raw.githubusercontent.com/api-evangelist/microsoft-typescript/refs/heads/main/apis.yml
 created: '2024-01-01'
 modified: '2026-03-16'
@@ -20,9 +20,9 @@ apis:
   - aid: microsoft-typescript:compiler-api
     name: TypeScript Compiler API
     tags:
-      - TypeScript
       - Compiler
       - Language Tools
+      - TypeScript
     image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
     humanURL: https://github.com/microsoft/TypeScript/wiki/Using-the-Compiler-API
     properties:
@@ -37,9 +37,9 @@ apis:
   - aid: microsoft-typescript:language-service-api
     name: TypeScript Language Service API
     tags:
-      - TypeScript
-      - Language Service
       - IDE Integration
+      - Language Service
+      - TypeScript
     image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
     humanURL: https://github.com/microsoft/TypeScript/wiki/Using-the-Language-Service-API
     properties:
