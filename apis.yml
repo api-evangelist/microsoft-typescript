@@ -57,13 +57,13 @@ common:
     url: https://www.typescriptlang.org/
   - type: Documentation
     url: https://www.typescriptlang.org/docs/
-  - type: GitHub Organization
+  - type: GitHubOrganization
     url: https://github.com/microsoft/TypeScript
-  - type: Getting Started
+  - type: GettingStarted
     url: https://www.typescriptlang.org/docs/handbook/intro.html
-  - type: Terms of Service
+  - type: TermsOfService
     url: https://www.microsoft.com/en-us/legal/terms-of-use
-  - type: Privacy Policy
+  - type: PrivacyPolicy
     url: https://privacy.microsoft.com/en-us/privacystatement
   - type: Support
     url: https://github.com/microsoft/TypeScript/issues
