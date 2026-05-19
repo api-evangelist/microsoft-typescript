@@ -14,7 +14,7 @@ tags:
   - TypeScript
 url: https://raw.githubusercontent.com/api-evangelist/microsoft-typescript/refs/heads/main/apis.yml
 created: '2024-01-01'
-modified: '2026-04-28'
+modified: '2026-05-19'
 specificationVersion: '0.19'
 apis:
   - aid: microsoft-typescript:compiler-api
@@ -67,6 +67,9 @@ common:
     url: https://privacy.microsoft.com/en-us/privacystatement
   - type: Support
     url: https://github.com/microsoft/TypeScript/issues
+  - name: Agent Skills
+    url: https://github.com/microsoft/TypeScript-Maintainer-Skills
+    type: AgentSkill
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
