@@ -51,6 +51,8 @@ apis:
       error diagnostics. It provides the same intelligence used by VS Code
       and other editors for TypeScript and JavaScript development.
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/typescript
   - type: Portal
     url: https://www.typescriptlang.org/
   - type: Website
