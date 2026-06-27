@@ -71,7 +71,7 @@ common:
     url: https://github.com/microsoft/TypeScript/issues
   - name: Agent Skills
     url: https://github.com/microsoft/TypeScript-Maintainer-Skills
-    type: AgentSkill
+    type: AgentSkills
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
